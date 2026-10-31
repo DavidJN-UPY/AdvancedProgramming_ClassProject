@@ -1,5 +1,5 @@
 book_id,title,isbn,publication_year,category_id
-1,Dune,9780441172719,1965,1
-2,Kindred,9780807083697,1979,1
-3,The Left Hand of Darkness,9780441478125,1969,1
-4,Good Omens,9780060853983,1990,2
+1,Dune,9780441172719,1965,Science Fiction
+2,Kindred,9780807083697,1979,Science Fiction
+3,The Left Hand of Darkness,9780441478125,1969,Science Fiction
+4,Good Omens,9780060853983,1990,Fantasy
